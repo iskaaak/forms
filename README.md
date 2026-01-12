@@ -59,7 +59,18 @@ The frontend provides the user interface for authenticating, building forms, and
 - **Data Persistence:** Forms and user data are stored in a persistent H2 database.
 - **Responsive Design:** Built with PrimeVue for a modern, responsive UI.
 
-## 🛠 Tech Stack
+## � Screenshots
+
+![Screenshot 1](screenshots/Screenshot%202026-01-12%20at%2019-58-13%20.png)
+![Screenshot 2](screenshots/Screenshot%202026-01-12%20at%2019-58-21%20.png)
+![Screenshot 3](screenshots/Screenshot%202026-01-12%20at%2019-58-33%20.png)
+![Screenshot 4](screenshots/Screenshot%202026-01-12%20at%2019-58-57%20.png)
+![Screenshot 5](screenshots/Screenshot%202026-01-12%20at%2019-59-17%20.png)
+![Screenshot 6](screenshots/Screenshot%202026-01-12%20at%2019-59-32%20.png)
+![OpenAPI UI](screenshots/Screenshot%202026-01-12%20at%2020-00-17%20OpenAPI%20UI%20(Powered%20by%20Quarkus%203.30.6).png)
+
+
+## �🛠 Tech Stack
 
 **Backend:**
 - [Quarkus](https://quarkus.io/) (Kotlin)
